@@ -171,29 +171,6 @@ up-to-date external information.
 
 ---
 
-## 🚀 Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Application
-
-```bash
-python app.py
-```
-
----
-
 ## 📈 Future Enhancements
 
 * Hybrid Search (Keyword + Semantic Search)
